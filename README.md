@@ -2,7 +2,7 @@ Play the [browser build](https://niposch.de/ludum-dare-56/) · [web deployment n
 
 **Unfinished jam prototype:** we ran out of time and did not finish this game for Ludum Dare 56. The browser build preserves the playable prototype.
 
-# Ludum Dare 56
+# Ludum Dare 56 — potion-brewing prototype
 Our project for [Ludum Dare 56](https://ldjam.com/).
 
 # Conventions
