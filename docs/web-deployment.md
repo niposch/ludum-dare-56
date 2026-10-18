@@ -18,3 +18,7 @@ python -m http.server --directory build/web 8080
 ```
 
 Open http://localhost:8080/ rather than the HTML file directly. Before publishing changes, verify menu/gameplay and console errors in a browser. A successful export alone is not a play test.
+
+## Verification — 18 October 2026
+
+Verified public runtime `9aec4f1` in successful Pages run `39165129400` on 2026-10-18: menu, selector and Level 1 loaded in Chromium. The unfinished prototype emits empty-Tween diagnostics; no full playthrough is claimed. This publication was manually dispatched. No push-triggered run appeared during this task; if a push does not queue a run, use `gh workflow run github-page.yml -R niposch/ludum-dare-56 --ref master`. No repository Actions permission policy was changed.
