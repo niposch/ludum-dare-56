@@ -1,5 +1,6 @@
-# Try out master here
-[https://panorb.github.io/ludum-dare-56/](https://panorb.github.io/ludum-dare-56/)
+Play the [browser build](https://niposch.de/ludum-dare-56/) · [web deployment notes](docs/web-deployment.md).
+
+**Unfinished jam prototype:** we ran out of time and did not finish this game for Ludum Dare 56. The browser build preserves the playable prototype.
 
 # Ludum Dare 56
 Our project for [Ludum Dare 56](https://ldjam.com/).
